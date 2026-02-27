@@ -1,3 +1,5 @@
+package Plane;
+
 public abstract class Plane {
     String name;
     public Plane (String name) {

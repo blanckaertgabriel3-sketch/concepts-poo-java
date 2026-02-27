@@ -1,4 +1,6 @@
-public class Birds extends Animal{
+package ZOO;
+
+public class Birds extends Animal {
     public Birds(String name) {
         super(name);
     }

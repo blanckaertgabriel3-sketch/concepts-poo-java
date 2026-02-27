@@ -1,5 +1,7 @@
-public class Mammals extends Animal{
-    public Mammals(String name) {
+package ZOO;
+
+public class Reptiles extends Animal {
+    public Reptiles(String name) {
         super(name);
     }
 

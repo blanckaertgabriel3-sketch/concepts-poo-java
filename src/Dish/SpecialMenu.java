@@ -1,3 +1,5 @@
+package Dish;
+
 final public class SpecialMenu extends Dish {
     final double reduce = 0.1;
     public SpecialMenu(String name, double price) {

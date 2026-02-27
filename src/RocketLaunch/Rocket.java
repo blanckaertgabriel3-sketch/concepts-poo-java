@@ -1,3 +1,5 @@
+package RocketLaunch;
+
 public class Rocket {
     String name;
     double weight;
@@ -6,7 +8,7 @@ public class Rocket {
         this.weight = weight;
     }
     public String start() {
-        return "Launch Rocket";
+        return "Launch RocketLaunch.Rocket";
     }
     public String info() {
         return "name:" + name + "\n" + "weight:" + weight + "kg ";

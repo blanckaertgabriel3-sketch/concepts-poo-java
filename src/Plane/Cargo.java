@@ -1,4 +1,6 @@
-public class Cargo extends Plane{
+package Plane;
+
+public class Cargo extends Plane {
     public Cargo (String name) {
         super(name);
     }

@@ -1,4 +1,6 @@
-public class Square extends Forme{
+package Form;
+
+public class Square extends Forme {
     double width;
     double height;
     public Square(double width, double height) {

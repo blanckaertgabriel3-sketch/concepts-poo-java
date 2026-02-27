@@ -1,3 +1,5 @@
+package RocketLaunch;
+
 public class Ariane6Start {
     Ariane6 rocket;
     public Ariane6Start(Ariane6 rocket) {

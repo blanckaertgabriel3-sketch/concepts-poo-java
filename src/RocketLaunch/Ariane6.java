@@ -1,4 +1,6 @@
-public class Ariane6 extends Rocket{
+package RocketLaunch;
+
+public class Ariane6 extends Rocket {
     public Ariane6(String name, double weight) {
         super(name , weight);
     }

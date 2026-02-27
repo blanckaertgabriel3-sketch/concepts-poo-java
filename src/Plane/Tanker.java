@@ -1,9 +1,11 @@
-public class Tanker extends Plane{
+package Plane;
+
+public class Tanker extends Plane {
     public Tanker(String name) {
         super(name);
     }
     @Override
     public String fly() {
-        return "Tanker is flying";
+        return "Plane.Tanker is flying";
     }
 }

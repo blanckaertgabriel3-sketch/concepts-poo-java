@@ -1,4 +1,6 @@
-public class AdministrativeStaff extends Employe{
+package Employe;
+
+public class AdministrativeStaff extends Employe {
     @Override
     public String work() {
         return "is working";

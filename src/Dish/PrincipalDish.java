@@ -1,4 +1,6 @@
-public class PrincipalDish extends Dish{
+package Dish;
+
+public class PrincipalDish extends Dish {
     String size;
     public PrincipalDish(String name, double price, String size) {
         super(name, price);

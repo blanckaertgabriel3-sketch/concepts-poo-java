@@ -1,3 +1,5 @@
+package Dish;
+
 public abstract class Dish {
     String name;
     double price;

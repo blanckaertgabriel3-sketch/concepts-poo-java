@@ -1,4 +1,6 @@
-public class Dessert extends Dish{
+package Dish;
+
+public class Dessert extends Dish {
     double size;
     public Dessert(String name, double price, double size) {
         super(name, price);
